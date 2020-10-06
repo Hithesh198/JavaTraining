@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="I11200061 &lt;I11200061@TWLAHP-0074.in.techwave.net&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="I11200061 &lt;I11200061@TWLAHP-0074.in.techwave.net&gt;"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\GitRepo\.git">
+			<item value="true"/>
+			<item value="I11200061 &lt;I11200061@TWLAHP-0074.in.techwave.net&gt;"/>
+			<item value=""/>
+			<item value="I11200061 &lt;I11200061@TWLAHP-0074.in.techwave.net&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
